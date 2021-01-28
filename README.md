@@ -3,7 +3,8 @@ A C# program done as a class assignment for Design Patterns and Algorithms to re
 from a file and sort numbers using a merging algorithm, with worst/best/average case 
 time complexity of O(N*log N). Space complexity is O(N) because it is a recursive function. 
 This is preferred where space is not a problem, where the data set is large, 
-or the dataset is believed to be largely unsorted.
+or the dataset is believed to be largely unsorted. The program also incorporates time tracking
+to see how long, in minutes:seconds:milliseconds the dataset took.
 
 
 ## Getting Started

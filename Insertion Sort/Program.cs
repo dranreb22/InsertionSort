@@ -11,7 +11,8 @@ namespace Insertion_Sort
         {
             
 
-            Console.WriteLine("In terms of 10^n, how many values shall we sort? Up to 1,000,000.");
+            Console.WriteLine("How many values shall we sort?(Ensuring dataset matching input value and" +
+                "edit code respectively.");
             int n = Convert.ToInt32(Console.ReadLine());
             string fileNum = n + "numbers.txt";
             string filePath = "C:\\Users\\berna\\Documents\\C sharp practice\\NumGenerated\\" + fileNum;
