@@ -10,7 +10,7 @@ to see how long, in minutes:seconds:milliseconds the dataset took.
 ## Getting Started
 1. Clone or download the the program. Unzip the download.
 2. Open/import the project through Visual Studio Community 2019
-3. Gather a data set with number of lines containing values of 10^n, where 5 >= n >= 1
+3. Gather a data set with number of lines equaling the number input at the console.
 4. Run the program and test functionality.
 
 ## Built With
@@ -27,7 +27,7 @@ GNU General Public License v3.0 - See License file
 *Visual Studio Community 2019
 
 ## Key Programming Concepts Utilized
-* Insertion Sorting, whereby the algorithm iteratesa through an area
-	and removes 1 element per iteration, sorting from left to right.
+* Insertion Sorting, whereby the algorithm iterates through an array
+	and moves up to 1 element per iteration, sorting from left to right.
 * File input and output - Reading from a pre-existing file stored within another directory
 	and creating a file, then appending to the file in the bin directory of the same project.
