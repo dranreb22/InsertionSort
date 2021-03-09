@@ -10,7 +10,7 @@ namespace Insertion_Sort
         static void Main(string[] args)
         {
             
-
+             
             Console.WriteLine("How many values shall we sort?(Ensuring dataset matching input value and" +
                 "edit code respectively.");
             int n = Convert.ToInt32(Console.ReadLine());
